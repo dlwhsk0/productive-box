@@ -51,7 +51,7 @@ This project uses GitHub graphQL API to get the commit histories and write into 
 1. Fork this repo
 1. Open the "Actions" tab of your fork and click the "enable" button
 1. Go to the repo **Settings > Secrets and variables** > **Actions**,
-   add the following secrets / variables:
+   add the following secrets / variables: 
    | Type | Name | Description |
    |---------------------------------|--------------------|---------------------------------------------------------------|
    | Repository Secrets | **GH_TOKEN** | The GitHub token generated above. |
