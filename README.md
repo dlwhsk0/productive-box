@@ -58,7 +58,7 @@ This project uses GitHub graphQL API to get the commit histories and write into 
    | Repository Secrets | **GIST_ID** | The ID portion from your gist URL, e.g., `9842e074b8ee46aef76fd0d493bae0ed`. |
    | Repository Variable | **TIMEZONE** | The timezone of your location, e.g., `Asia/Taipei` for Taiwan, `America/New_York` for America in New York, etc. |
 
-   Below is the final screenshot: (Click the image for a clearer view.)
+   Below is the final screenshot: (Click the image for a clearer view.) 
 
    |Repository Secret|Repository Variable|
    |:-:|:-:|
